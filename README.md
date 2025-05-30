@@ -5,9 +5,13 @@ Este projeto é uma agenda de contatos simples, desenvolvida na linguagem C. A a
 ## ⚙️ Funcionalidades
 
 ✅ Adicionar novos contatos
+
 ✅ Listar todos os contatos armazenados
+
 ✅ Excluir contatos existentes pelo nome
+
 ✅ Menu interativo com opções claras
+
 ✅ Prevenção de ultrapassar o limite de contatos
 
 ## 🧱 Estrutura do Código
@@ -33,9 +37,13 @@ Este projeto é uma agenda de contatos simples, desenvolvida na linguagem C. A a
 ## 🚀 Aprendizados
 
 Este projeto reforça conceitos como:
+
 ✔️ Manipulação de vetores e strings
+
 ✔️ Estruturas de controle (laços, condicionais)
+
 ✔️ Modularização de código com funções
+
 ✔️ Boas práticas de programação em C
 
 ## 🤝 Contribuições
