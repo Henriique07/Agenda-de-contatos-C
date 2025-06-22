@@ -13,7 +13,7 @@ char nomes[tam][100];
 char numero[tam][100];
 int contato_ativo = 0;
 
-void adicionar(){// Uma função é alocada dentro dos parenteses para ser chamada dentro main
+void adicionar(){// Uma função é alocada dentro das chaves para ser chamada dentro main
 
 	if (contato_ativo >= tam) {// Função para não ultrpassar o limite de contatos que pode ser adicionados
         printf("Limite de contatos atingido! Nao e possivel adicionar mais contatos\n");
