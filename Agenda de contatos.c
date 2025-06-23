@@ -29,7 +29,7 @@ void adicionar(){// Uma função é alocada dentro das chaves para ser chamada d
 	
 	printf ("Numero: ");// Recebe o numero do contato
 	fgets (numero[contato_ativo], 100, stdin);
-    numero[contato_ativo][strcspn(numero[contato_ativo], "\n")] = '\0';
+  	numero[contato_ativo][strcspn(numero[contato_ativo], "\n")] = '\0';
 	contato_ativo++;// Cada contato adicionado recebe +1 para mostrar que o contato está ativo
 	
 	printf ("\n");// Pula uma linha
